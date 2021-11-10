@@ -4,7 +4,6 @@
         <Identity Id="TabRenamer2022.31aa0a94-f50f-4fd7-abaf-d80f27259828" Version="1.0" Language="en-US" Publisher="PC-8001" />
         <DisplayName>TabRenamer2022</DisplayName>
         <Description xml:space="preserve">AutoHide Tabs Rename.</Description>
-        <License>LICENSE</License>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
         <Tags>tab, tabs, rename</Tags>
